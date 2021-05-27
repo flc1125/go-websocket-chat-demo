@@ -1,0 +1,6 @@
+# github.com/gorilla/websocket v1.4.2
+## explicit
+github.com/gorilla/websocket
+# github.com/satori/go.uuid v1.2.0
+## explicit
+github.com/satori/go.uuid
